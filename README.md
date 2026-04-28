@@ -25,7 +25,7 @@ Status berubah menjadi ✅ **CHECK-IN**
 
 ---
 
-## 🧠 Tujuan
+##  Tujuan
 
 Mengurangi:
 - Antrian di lobby
@@ -39,7 +39,7 @@ Meningkatkan:
 
 ---
 
-## 🛠️ Teknologi
+##  Teknologi
 
 - HTML
 - Tailwind CSS
@@ -47,7 +47,7 @@ Meningkatkan:
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Full Stack Developer - ReadyRoom**
 
