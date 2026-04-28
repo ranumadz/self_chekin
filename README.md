@@ -58,8 +58,8 @@ Project ini bagian dari:
 
 ## 🔥 Status
 
-✅ Prototype selesai  
-🚧 Akan diintegrasikan ke sistem utama ReadyRoom (React + Laravel)
+ Prototype selesai  
+Akan diintegrasikan ke sistem utama ReadyRoom (React + Laravel)
 
 ---
 
