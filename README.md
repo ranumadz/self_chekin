@@ -56,18 +56,18 @@ Project ini bagian dari:
 
 ---
 
-## 🔥 Status
+##  Status
 
  Prototype selesai  
 Akan diintegrasikan ke sistem utama ReadyRoom (React + Laravel)
 
 ---
 
-## 💡 Vision
+##  Vision
 
 Hotel modern tanpa resepsionis  
 Semua serba digital & otomatis
 
 ---
 
-🔥 Powered by ReadyRoom Technology
+Powered by ReadyRoom Technology
